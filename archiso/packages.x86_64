@@ -273,3 +273,9 @@ git
 
 #grub theme
 alci-grub-theme-git
+
+#xorg
+#xorg-drivers
+#xorg-fonts
+
+cosmic
